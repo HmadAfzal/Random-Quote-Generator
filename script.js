@@ -24,7 +24,7 @@ else{
     body.appendChild(toast)
     setTimeout(() => {
         toast.remove()
-    }, 20000);
+    }, 5000);
 
 })
 }

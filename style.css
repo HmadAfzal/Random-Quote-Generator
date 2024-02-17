@@ -74,7 +74,7 @@ svg{
 .loader{
     width: 100%;
     height: 7px;
-    animation: loaderAnimation 20s linear forwards;
+    animation: loaderAnimation 5s linear forwards;
 }
 @keyframes loaderAnimation {
    100% {
